@@ -1,0 +1,238 @@
+{
+  "project_info": {
+    "project_number": "1018323974700",
+    "firebase_url": "https://simfi-payment.firebaseio.com",
+    "project_id": "simfi-payment",
+    "storage_bucket": "simfi-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018323974700:android:1fd10a76e9099962",
+        "android_client_info": {
+          "package_name": "analysis.fingel.com.fingelanalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzPGaiZt0lfIx_dcwt5Zi-54fZpBAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018323974700:android:034f2f473cfeea9a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseemaillogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018323974700-tf4e2it1qb84mmdjmo1bu5fjvvil7vn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseemaillogin",
+            "certificate_hash": "1e577e384bf13dc064c9fb0714b3316e1f5bb141"
+          }
+        },
+        {
+          "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzPGaiZt0lfIx_dcwt5Zi-54fZpBAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018323974700:android:93293fa29e1df5f8",
+        "android_client_info": {
+          "package_name": "com.example.mayur.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzPGaiZt0lfIx_dcwt5Zi-54fZpBAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018323974700:android:95993ac7be39d871",
+        "android_client_info": {
+          "package_name": "com.nsikakthompson.firebasephoneauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018323974700-cjlogl0i9oev24uj7q39q6lm4urtrcqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nsikakthompson.firebasephoneauthexample",
+            "certificate_hash": "479f4bbdcab2c7786d2235493eba56f026cc7215"
+          }
+        },
+        {
+          "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzPGaiZt0lfIx_dcwt5Zi-54fZpBAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018323974700:android:7dbd01deca5a46dd",
+        "android_client_info": {
+          "package_name": "com.recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzPGaiZt0lfIx_dcwt5Zi-54fZpBAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018323974700:android:6770f2d3bbfb96a3",
+        "android_client_info": {
+          "package_name": "com.simfipayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018323974700-sd8kcj99c5o5uspu4at4jknan0ebdd9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simfipayment",
+            "certificate_hash": "64859ad806213cfb1ee0f1c752e706990fdce06a"
+          }
+        },
+        {
+          "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzPGaiZt0lfIx_dcwt5Zi-54fZpBAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018323974700:android:d2f1b0b82315a6d1",
+        "android_client_info": {
+          "package_name": "demo.firebaseauth.com.firebaseauthphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzPGaiZt0lfIx_dcwt5Zi-54fZpBAYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018323974700-8c154aoberas703eq0fmo4o4cs7f672r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
